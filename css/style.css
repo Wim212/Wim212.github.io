@@ -1,0 +1,18 @@
+html, body {
+    box-sizing: border-box;
+    background-color: #5CE3F2;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    height: 100%;
+    width: 100%;
+}
+
+.oranje, span{
+    color: #F2A950;
+  }
+
+.groen, span{
+    color: #0dbb27a7;
+}
